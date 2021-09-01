@@ -7,15 +7,15 @@
 
 <br />
 
-Hi, i'm [Phuc Le](https://phucleportfolio.netlify.app/), a passionate self-taught full stack web developer and a freelance software engineer from Finland. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Phuc Le](https://phucleportfolio.netlify.app/), a passionate self-taught full stack web developer and a freelance software engineer from Finland. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the projects I build.
 
-I am also have my internship at Integrify Oy with the Full Stack Developer role.
+I am doing my internship at Integrify Oy with the Full Stack Developer role.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:phuclevinh2000@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help;
 
 **languages and tools:**  
 
@@ -29,7 +29,7 @@ I am also have my internship at Integrify Oy with the Full Stack Developer role.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://phucleportfolio.netlify.app/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
