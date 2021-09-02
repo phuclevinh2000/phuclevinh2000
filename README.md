@@ -9,7 +9,7 @@
 
 Hi, I'm [Phuc Le](https://phucleportfolio.netlify.app/), a passionate self-taught full stack web developer and a freelance software engineer from Finland. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the projects I build.
 
-I am doing my internship at Integrify Oy with the Full Stack Developer role.
+I am doing my internship at Integrify Oy with the Full Stack Developer position.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
