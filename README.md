@@ -29,9 +29,9 @@ I am doing my internship at Integrify Oy with the Full Stack Developer position.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+if you like what I do, maybe contact me via my email and we can grab a coffee: phuclevinh2000@gmail.com 🥺👉👈
 
-<a href="https://phucleportfolio.netlify.app/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://phucleportfolio.netlify.app/" target="_blank"><img src="https://thumbs.dreamstime.com/b/writing-note-showing-my-portfolio-business-concept-samples-work-art-drawings-photography-hot-air-balloon-floating-142551610.jpg" alt="" width="150" ></a>
 
 
 
