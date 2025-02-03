@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/phuc-le-vinh-2000/">
-  <img align="left" alt="Phuc Le's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  Linkedln
 </a>
 
 <br />
