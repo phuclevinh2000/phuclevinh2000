@@ -7,9 +7,9 @@
 
 <br />
 
-Hi, I'm [Phuc Le](https://phucleportfolio.netlify.app/), a passionate self-taught full stack web developer and a freelance software engineer from Finland. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the projects I build.
+Hi, I'm [Phuc Le](https://phucleportfolio.netlify.app/), a passionatefull stack web developer and a freelance software engineer from Finland. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the projects I build.
 
-I am working at Zevoy Aktiebolag as a Junior Software Developer position.
+I am working at Zevoy Aktiebolag as a Software Developer position.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
